@@ -1,0 +1,8 @@
+1,M01,manager01,2,Manager
+2,M02,manager02,2,Manager
+3,S01,staff01,3,Staff
+4,M03,pass123,2,Manager
+5,S02,staff01,3,Staff
+6,S03,staff02,3,Staff
+7,A01,admin01,1,Admin
+8,S10,staff10,3,Staff
